@@ -1,0 +1,9 @@
+#data files#
+*.npy
+
+#tensorflow models#
+1st_try/
+
+data_X.npy
+data_Y.npy
+training_data.npy
